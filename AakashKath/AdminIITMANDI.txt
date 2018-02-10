@@ -1,0 +1,14 @@
+Networking
+2.0
+https://www.whois.com/whois/iitmandi.ac.in
+confirm with multiple sources???????
+
+3.0
+https://www.reddit.com/r/duckduckgo/comments/7u8sfq/how_many_data_centers_do_duckduckgo_own_and_what/
+too easy to be a question
+
+Admin
+1.0
+Make a false file which runs the pwd file after each updation. False file should contain false info to check whether the updated data is not a malicious command. After certainty update the more secure online file. Online file will only update if the request is from that specific system to avoid corrupt code.
+
+Not trying docker and Ubuntu

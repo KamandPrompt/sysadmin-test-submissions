@@ -17,3 +17,5 @@ https://github.com/kush888/Server-Test-
 https://github.com/rishi-s8/SNTC_Test
 https://github.com/vsvipul/SNTC-sysadmin-test-solutions
 https://github.com/nulll-pointer/sysadmin-test
+https://github.com/unkemptArc99/sysadmin-test-unkemptArc99
+https://github.com/AakashKath/SNTC
