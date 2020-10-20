@@ -1,0 +1,12 @@
+1. For 1st ques:
+
+
+2. For second question:
+     	Registrar-ERNET India
+	IANA ID: 800068
+	URL: http://www.ernet.in
+	Whois Server: —
+	IP Address- 204.197.248.190
+	Server Type-Apache
+3. For third ques:
+	4 open ports(screenshot attached)

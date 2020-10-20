@@ -1,0 +1,11 @@
+FROM node:12
+WORKDIR /doc
+COPY package*.json /doc/
+RUN npm install
+COPY . /doc
+EXPOSE 3000
+ADD start.sh /
+RUN chmod +x /start.sh
+
+CMD ["/start.sh"]
+#node app.js is the command in start.sh

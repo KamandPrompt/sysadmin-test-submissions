@@ -1,0 +1,9 @@
+For first question:- 
+First I logged in to AWS and here in EC2 services I made a remote server using ubuntu 18.04 as it's base. Next, I tried installing streisand as per the steps given in the github page, but at the end process, I received an error and the application couldn't load after that. For reference, I have attached screenshots.
+
+in second question:-
+Ways to prevent user from gaining super-user access:
+1. difficult password, using different characters and alphabets
+2. password known to a limited number of users
+3. Different passwords on different systems.
+4. Keep regular monitor and auditing over the system.

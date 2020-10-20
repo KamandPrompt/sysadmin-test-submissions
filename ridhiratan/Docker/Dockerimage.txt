@@ -1,0 +1,2 @@
+link :- https://hub.docker.com/repository/docker/ridhiratan/example_image
+name :- ridhiratan/example_image

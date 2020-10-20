@@ -19,3 +19,17 @@ https://github.com/vsvipul/SNTC-sysadmin-test-solutions
 https://github.com/nulll-pointer/sysadmin-test
 https://github.com/unkemptArc99/sysadmin-test-unkemptArc99
 https://github.com/AakashKath/SNTC
+
+# 2020 submissions
+https://github.com/rs4231199/sys-admin-test
+https://gitlab.com/ShubhamPandey28/sys-test
+https://github.com/Dhruv-Pindawala/sys-admin-SNTC
+https://github.com/Anmol2001/sys-admin2020
+https://github.com/divyashk/sys-admin2020
+https://github.com/harnaman-hk/sysadmin
+https://github.com/naveensaigit/sys-admin-final
+https://github.com/VineetAhuja7/SNTC-submission
+https://github.com/pranshukharkwal/kp-sys-admin
+https://github.com/Signior-X/sntc-submision
+https://github.com/ridhiratan/sntc
+https://github.com/siddhama/sys-admin-2020-submission
